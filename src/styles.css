@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.userHolder { 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.infoHolder {
+  display: flex;
+  flex-direction: column;
+}
+
+.nameHolder {
+  display: flex;
+  flex-direction: row;
+}
+
+.emailHolder
